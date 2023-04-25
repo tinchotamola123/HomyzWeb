@@ -1,6 +1,6 @@
 # Homyz Web 
 
-Página de inmobiliaria Homyz. \n
+Página de inmobiliaria Homyz.
 
 Creada con React
 
