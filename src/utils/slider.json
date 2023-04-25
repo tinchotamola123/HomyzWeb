@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Palmares Valley",
+    "price": "47,043",
+    "detail": "Ruta Panamericana, Godoy Cruz, Mendoza",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Palmares Valley Plus",
+    "price": "66,353",
+    "detail": "Ruta Panamericana, Godoy Cruz, Mendoza",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Dalvian ",
+    "price": "35,853",
+    "detail": "Av. Champagnat, Ciudad, Mendoza",
+    "image": "./r3.png"
+  },
+  {
+    "name": "Dalvian Plus",
+    "price": "77,043",
+    "detail": "Av. Champagnat, Ciudad, Mendoza",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Furloti",
+    "price": "66,353",
+    "detail": "Juan J. Paso, Maipú, Mendoza",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Furloti Plus",
+    "price": "35,853",
+    "detail": "Juan J. Paso, Maipú, Mendoza",
+    "image": "./r3.png"
+  }
+]
